@@ -46,3 +46,5 @@ plot(w/pi,abs(h),'blue');
 <img width="694" height="622" alt="Screenshot 2026-03-28 194014" src="https://github.com/user-attachments/assets/49801097-d868-40b9-9200-22fd916a3bb3" />
 
 ## RESULT:
+![Uploading image.png…]()
+
